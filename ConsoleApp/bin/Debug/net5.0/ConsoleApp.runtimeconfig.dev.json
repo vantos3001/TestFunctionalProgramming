@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\iwlas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\iwlas\\.nuget\\packages"
+    ]
+  }
+}
