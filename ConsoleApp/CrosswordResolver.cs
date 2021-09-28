@@ -133,7 +133,7 @@ namespace ConsoleApp
                 {
                     for (int j = 0; j < currentWordIndexes.Count; j++)
                     {
-                        
+                        //TODO: use combinatorics for creating new orders
                     }
                 }
             }
